@@ -2,52 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29d71840-a370-482f-9444-1cb271ac750e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_4_13_beta_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project_11.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Project_11/IterateNum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Project_11/Letters.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Project_11/OriginalNum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Project_11/Pallindrome.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Project_11/RepeatWord.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Project_11/Reverse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Project_11/SortNum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Project_11/TomJerry.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Project_11/UnspecSum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Project_11/Word.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/Project_11/IterateNumTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/Project_11/LettersTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/Project_11/OriginalNumTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/Project_11/PallindromeTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/Project_11/RepeatWordTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/Project_11/ReverseTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/Project_11/SortNumTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/Project_11/TomJerryTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/Project_11/UnspecSumTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/Project_11/WordTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/IterateNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Letters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OriginalNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Pallindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RepeatWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Reverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SortNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TomJerry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UnspecSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Word.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/test/IterateNumTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/test/LettersTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/test/OriginalNumTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/test/PallindromeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/test/RepeatWordTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/test/ReverseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/test/SortNumTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/test/TomJerryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/test/UnspecSumTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/test/WordTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/Project_11/IterateNumTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/Project_11/IterateNumTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/IterateNumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/IterateNumTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/LettersTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/LettersTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/OriginalNumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/OriginalNumTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/PallindromeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/PallindromeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/RepeatWordTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/RepeatWordTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/ReverseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/ReverseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/SortNumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/SortNumTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/TomJerryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/TomJerryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/UnspecSumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/UnspecSumTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/WordTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/WordTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -61,8 +27,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/test/RepeatWordTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+            <state relative-caret-position="120">
+              <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -71,49 +37,48 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Reverse.java">
+        <entry file="file://$PROJECT_DIR$/src/main/test/ReverseTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/SortNum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="444">
-              <caret line="84" column="5" selection-start-line="84" selection-start-column="5" selection-end-line="84" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/TomJerry.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="444">
-              <caret line="37" selection-start-line="37" selection-end-line="37" />
+            <state relative-caret-position="150">
+              <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
               <folding>
-                <element signature="e#0#1006#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Word.java">
+        <entry file="file://$PROJECT_DIR$/src/main/test/SortNumTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="31" selection-start-line="31" selection-end-line="31" />
+            <state relative-caret-position="164">
+              <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#278#279#0" expanded="true" />
+                <element signature="e#313#314#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/test/WordTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/test/TomJerryTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+            <state relative-caret-position="180">
+              <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/test/UnspecSumTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -122,10 +87,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/test/TomJerryTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/test/WordTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="165">
+              <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -134,10 +99,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/UnspecSum.java">
+        <entry file="file://$PROJECT_DIR$/src/main/test/IterateNumTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="429">
-              <caret line="45" selection-start-line="45" selection-end-line="45" />
+            <state relative-caret-position="240">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -146,21 +111,36 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Pallindrome.java">
+        <entry file="file://$PROJECT_DIR$/src/main/test/LettersTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="429">
-              <caret line="70" column="9" selection-start-line="70" selection-start-column="9" selection-end-line="70" selection-end-column="9" />
+            <state relative-caret-position="180">
+              <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/RepeatWord.java">
+        <entry file="file://$PROJECT_DIR$/src/main/test/OriginalNumTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+            <state relative-caret-position="109">
+              <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
               <folding>
-                <element signature="e#0#1142#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/test/PallindromeTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="164">
+              <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -181,18 +161,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/test/TomJerryTest.java" />
-        <option value="$PROJECT_DIR$/src/main/test/IterateNumTest.java" />
-        <option value="$PROJECT_DIR$/src/main/test/WordTest.java" />
-        <option value="$PROJECT_DIR$/src/main/test/LettersTest.java" />
-        <option value="$PROJECT_DIR$/src/main/test/RepeatWordTest.java" />
-        <option value="$PROJECT_DIR$/src/main/test/ReverseTest.java" />
-        <option value="$PROJECT_DIR$/src/main/test/PallindromeTest.java" />
-        <option value="$PROJECT_DIR$/src/main/test/UnspecSumTest.java" />
-        <option value="$PROJECT_DIR$/src/main/test/SortNumTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/SortNum.java" />
         <option value="$PROJECT_DIR$/src/main/java/OriginalNum.java" />
-        <option value="$PROJECT_DIR$/src/main/test/OriginalNumTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/IterateNum.java" />
         <option value="$PROJECT_DIR$/src/main/java/Letters.java" />
         <option value="$PROJECT_DIR$/src/main/java/Pallindrome.java" />
@@ -201,6 +171,16 @@
         <option value="$PROJECT_DIR$/src/main/java/TomJerry.java" />
         <option value="$PROJECT_DIR$/src/main/java/UnspecSum.java" />
         <option value="$PROJECT_DIR$/src/main/java/Word.java" />
+        <option value="$PROJECT_DIR$/src/main/test/IterateNumTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/LettersTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/OriginalNumTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/PallindromeTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/RepeatWordTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/ReverseTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/SortNumTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/TomJerryTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/UnspecSumTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/WordTest.java" />
       </list>
     </option>
   </component>
@@ -216,7 +196,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -258,10 +237,11 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546492403610" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546531764090" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -289,19 +269,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TomJerryTest">
-    <configuration name="IterateNumTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.UnspecSumTest">
+    <configuration name="LettersTest.letterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Project_11" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="IterateNumTest" />
+      <option name="MAIN_CLASS_NAME" value="LettersTest" />
+      <option name="METHOD_NAME" value="letterTest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LettersTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="OriginalNumTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Project_11" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LettersTest" />
+      <option name="MAIN_CLASS_NAME" value="OriginalNumTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -314,18 +296,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TomJerryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SortNumTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Project_11" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TomJerryTest" />
+      <option name="MAIN_CLASS_NAME" value="SortNumTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WordTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="UnspecSumTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Project_11" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="WordTest" />
+      <option name="MAIN_CLASS_NAME" value="UnspecSumTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -343,19 +325,19 @@
     </configuration>
     <list>
       <item itemvalue="JUnit.null" />
-      <item itemvalue="JUnit.IterateNumTest" />
-      <item itemvalue="JUnit.LettersTest" />
+      <item itemvalue="JUnit.LettersTest.letterTest" />
+      <item itemvalue="JUnit.OriginalNumTest" />
       <item itemvalue="JUnit.RepeatWordTest" />
-      <item itemvalue="JUnit.WordTest" />
-      <item itemvalue="JUnit.TomJerryTest" />
+      <item itemvalue="JUnit.SortNumTest" />
+      <item itemvalue="JUnit.UnspecSumTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TomJerryTest" />
-        <item itemvalue="JUnit.WordTest" />
+        <item itemvalue="JUnit.UnspecSumTest" />
+        <item itemvalue="JUnit.SortNumTest" />
         <item itemvalue="JUnit.RepeatWordTest" />
-        <item itemvalue="JUnit.LettersTest" />
-        <item itemvalue="JUnit.IterateNumTest" />
+        <item itemvalue="JUnit.OriginalNumTest" />
+        <item itemvalue="JUnit.LettersTest.letterTest" />
       </list>
     </recent_temporary>
   </component>
@@ -373,24 +355,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SortNumTest - 2019.01.03 at 10h 12m 29s.xml">
-      <configuration name="SortNumTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SortNumTest - 2019.01.03 at 10h 12m 54s.xml">
-      <configuration name="SortNumTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SortNumTest - 2019.01.03 at 10h 16m 57s.xml">
-      <configuration name="SortNumTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="OriginalNumTest - 2019.01.03 at 10h 38m 21s.xml">
-      <configuration name="OriginalNumTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="IterateNumTest - 2019.01.03 at 10h 38m 52s.xml">
-      <configuration name="IterateNumTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LettersTest - 2019.01.03 at 10h 39m 14s.xml">
-      <configuration name="LettersTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="RepeatWordTest - 2019.01.03 at 10h 41m 57s.xml">
       <configuration name="RepeatWordTest" configurationId="JUnit" />
     </history-entry>
@@ -403,12 +367,30 @@
     <history-entry file="TomJerryTest - 2019.01.03 at 10h 43m 16s.xml">
       <configuration name="TomJerryTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="IterateNumTest - 2019.01.03 at 21h 32m 34s.xml">
+      <configuration name="IterateNumTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LettersTest_letterTest - 2019.01.03 at 21h 35m 09s.xml">
+      <configuration name="LettersTest.letterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OriginalNumTest - 2019.01.03 at 21h 36m 12s.xml">
+      <configuration name="OriginalNumTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RepeatWordTest - 2019.01.03 at 21h 37m 19s.xml">
+      <configuration name="RepeatWordTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SortNumTest - 2019.01.03 at 21h 38m 05s.xml">
+      <configuration name="SortNumTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UnspecSumTest - 2019.01.03 at 21h 39m 01s.xml">
+      <configuration name="UnspecSumTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27134877" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27613726" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -417,7 +399,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49960095" weight="0.32954547" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49960095" weight="0.32899022" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -444,70 +426,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/ReverseTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="48" selection-start-line="11" selection-start-column="8" selection-end-line="15" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/UnspecSumTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/SortNumTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="474">
-          <caret line="45" column="1" lean-forward="true" selection-end-line="45" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#278#279#0" expanded="true" />
-            <element signature="e#313#314#0" expanded="true" />
-            <element signature="e#374#375#0" expanded="true" />
-            <element signature="e#398#399#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/PallindromeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="474">
-          <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/OriginalNum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="33" column="76" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="76" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/OriginalNumTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#242#243#0" expanded="true" />
-            <element signature="e#278#279#0" expanded="true" />
-            <element signature="e#856#857#0" expanded="true" />
-            <element signature="e#874#875#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -519,57 +443,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/IterateNumTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="62" selection-start-line="11" selection-start-column="62" selection-end-line="11" selection-end-column="62" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Letters.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="38" selection-start-line="38" selection-end-line="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/LettersTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Pallindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="70" column="9" selection-start-line="70" selection-start-column="9" selection-end-line="70" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/RepeatWord.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#1142#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/RepeatWordTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -582,28 +459,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/SortNum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="444">
+        <state relative-caret-position="1050">
           <caret line="84" column="5" selection-start-line="84" selection-start-column="5" selection-end-line="84" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/TomJerry.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="444">
+        <state relative-caret-position="360">
           <caret line="37" selection-start-line="37" selection-end-line="37" />
-          <folding>
-            <element signature="e#0#1006#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/UnspecSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="45" selection-start-line="45" selection-end-line="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -614,20 +478,126 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/WordTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/UnspecSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+        <state relative-caret-position="645">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/TomJerryTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Pallindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="70" column="9" selection-start-line="70" selection-start-column="9" selection-end-line="70" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/RepeatWord.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/IterateNumTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/LettersTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/OriginalNumTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/PallindromeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/RepeatWordTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/ReverseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/SortNumTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#278#279#0" expanded="true" />
+            <element signature="e#313#314#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/TomJerryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/UnspecSumTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/WordTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

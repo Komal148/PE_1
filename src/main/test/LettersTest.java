@@ -7,13 +7,13 @@ import static org.junit.Assert.*;
 @RunWith(JUnit4.class)
 public class LettersTest {
     @Test
-    public void demo()
+    public void letterTest()
     {
 
-        Letters obj = new Letters();
+        Letters letters = new Letters();
         String expectedValue = "Capital Letter";
         //Act
-        String actualValue=obj.findLetter('A');
+        String actualValue=letters.findLetter('A');
         //Assert
         assertEquals(expectedValue,actualValue);
     }

@@ -8,12 +8,12 @@ import static org.junit.Assert.*;
 public class TomJerryTest {
 
         @Test
-        public void demo()
+        public void tomJerryTest()
         {
-            TomJerry obj=new TomJerry();
+            TomJerry tomJerry=new TomJerry();
             String expectedValue = "Tom";
             //Act
-            String actualValue=obj.func(23);
+            String actualValue=tomJerry.func(23);
             //Assert
             assertEquals(expectedValue,actualValue);
 

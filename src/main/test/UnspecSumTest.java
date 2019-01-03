@@ -9,9 +9,9 @@ import static org.junit.Assert.*;
 @RunWith(JUnit4.class)
 public class UnspecSumTest {
     @Test
-    public void demo()
+    public void unSpecSumTest()
     {
-        UnspecSum obj= new UnspecSum();
+        UnspecSum unspecSum= new UnspecSum();
         int expectedValue = 15;
         //Act
         ArrayList<Integer> list=new ArrayList<Integer>();
@@ -20,7 +20,7 @@ public class UnspecSumTest {
         list.add(3);
         list.add(4);
         list.add(5);
-        int actualValue=obj.calculateSum(list,0);
+        int actualValue=unspecSum.calculateSum(list,0);
         //System.out.println(actualValue);
         //Assert
         assertEquals(expectedValue,actualValue);

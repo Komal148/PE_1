@@ -9,26 +9,26 @@ import static org.junit.Assert.*;
 @RunWith(JUnit4.class)
 public class SortNumTest {
 
-    SortNum obj;
+    SortNum sortNum;
     @Before
     public void setUp() {
-        obj = new SortNum();
+        sortNum = new SortNum();
     }
 
     @After
     public void tearDown()
     {
-        obj=null;
+        sortNum =null;
     }
 
     @Test
     public void sortNumTestSuccess()
     {
-        int actualValue1=obj.sortDigits(345648);
+        int actualValue1= sortNum.sortDigits(345648);
         int expectedValue1=865443;
         assertEquals(expectedValue1,actualValue1);
 
-        boolean actualValue2=obj.calculateSum(0,345648);
+        boolean actualValue2= sortNum.calculateSum(0,345648);
         boolean expectedValue2=true;
         assertEquals(actualValue2,expectedValue2);
     }
@@ -36,7 +36,7 @@ public class SortNumTest {
     @Test
     public void sortNumTestFailure()
     {
-        boolean actualValue=obj.calculateSum(0,34564);
+        boolean actualValue= sortNum.calculateSum(0,34564);
         boolean expectedValue=false;
         assertEquals(expectedValue,actualValue);
     }

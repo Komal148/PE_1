@@ -9,25 +9,25 @@ public class PallindromeTest {
     @Test
     public void palTest()
     {
-        Pallindrome obj=new Pallindrome();
+        Pallindrome pallindrome=new Pallindrome();
 
         String expectedValue = "34543 is a palindrome and sum of even number is less than 25.";
         //Act
-        String actualValue=obj.palFinal(34543);
+        String actualValue=pallindrome.palFinal(34543);
         //Assert
         assertEquals(expectedValue,actualValue);
 
 
         String expectedValue1 = "6886886 is a palindrome and sum of even number is more than 25.";
         //Act
-        String actualValue1=obj.palFinal(6886886);
+        String actualValue1=pallindrome.palFinal(6886886);
         //Assert
         assertEquals(expectedValue1,actualValue1);
 
 
         String expectedValue2= "1234 is not a pallindrome";
         //Act
-        String actualValue2=obj.palFinal(1234);
+        String actualValue2=pallindrome.palFinal(1234);
         //Assert
         assertEquals(expectedValue2,actualValue2);
     }

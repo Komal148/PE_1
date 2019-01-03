@@ -7,12 +7,12 @@ import static org.junit.Assert.*;
 @RunWith(JUnit4.class)
 public class WordTest {
     @Test
-    public void demo()
+    public void wordTest()
     {
-        Word obj=new Word();
+        Word word=new Word();
         String expectedValue = "k = Consonent";
         //Act
-        String actualValue=obj.letters('k');
+        String actualValue=word.letters('k');
         //Assert
         assertEquals(expectedValue,actualValue);
 

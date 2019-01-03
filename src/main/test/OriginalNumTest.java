@@ -8,17 +8,17 @@ import static org.junit.Assert.*;
 
 @RunWith(JUnit4.class)
 public class OriginalNumTest {
-    OriginalNum obj;
+    OriginalNum originalNum;
     @Before
     public void setUp()
     {
-        obj=new OriginalNum();
+        originalNum =new OriginalNum();
     }
 
     @Test
     public void OriginalNumSuccessTest()
     {
-        String actualstr=obj.guessOriginalNum(23,23);
+        String actualstr= originalNum.guessOriginalNum(23,23);
         String expectedstr="Number guessed matches the original number";
         assertEquals(expectedstr,actualstr);
     }
@@ -26,7 +26,7 @@ public class OriginalNumTest {
     @Test
     public void OriginalNumFailureTest()
     {
-        String actualstr=obj.guessOriginalNum(43,23);
+        String actualstr= originalNum.guessOriginalNum(43,23);
         String expectedstr="Number guessed is more than the original number";
         assertEquals(expectedstr,actualstr);
     }
@@ -34,7 +34,7 @@ public class OriginalNumTest {
     @After
     public void tearDown()
     {
-        obj=null;
+        originalNum =null;
     }
 
 }

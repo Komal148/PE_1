@@ -6,12 +6,12 @@ import static org.junit.Assert.*;
 @RunWith(JUnit4.class)
 public class ReverseTest {
     @Test
-    public void demo()
+    public void reverseTest()
     {
-        Reverse obj=new Reverse();
+        Reverse reverse=new Reverse();
         String expectedValue = "lamok";
         //Act
-        String actualValue=obj.reverseString("komal");
+        String actualValue=reverse.reverseString("komal");
         //Assert
         assertEquals(expectedValue,actualValue);
     }
