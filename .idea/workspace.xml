@@ -1,7 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="29d71840-a370-482f-9444-1cb271ac750e" name="Default Changelist" comment="" />
+    <list default="true" id="29d71840-a370-482f-9444-1cb271ac750e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_4_13_beta_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project_11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Project_11/IterateNum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Project_11/Letters.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Project_11/OriginalNum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Project_11/Pallindrome.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Project_11/RepeatWord.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Project_11/Reverse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Project_11/SortNum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Project_11/TomJerry.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Project_11/UnspecSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Project_11/Word.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/Project_11/IterateNumTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/Project_11/LettersTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/Project_11/OriginalNumTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/Project_11/PallindromeTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/Project_11/RepeatWordTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/Project_11/ReverseTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/Project_11/SortNumTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/Project_11/TomJerryTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/Project_11/UnspecSumTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/Project_11/WordTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/IterateNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Letters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OriginalNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Pallindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RepeatWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SortNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TomJerry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UnspecSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Word.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/test/IterateNumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/test/LettersTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/test/OriginalNumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/test/PallindromeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/test/RepeatWordTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/test/ReverseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/test/SortNumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/test/TomJerryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/test/UnspecSumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/test/WordTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +124,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/test/TomJerryTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
+            <state relative-caret-position="300">
               <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -128,6 +175,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -160,6 +210,7 @@
     <option name="width" value="650" />
     <option name="height" value="743" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -210,7 +261,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546492398769" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546492403610" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -366,7 +417,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49960095" visible="true" weight="0.32954547" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49960095" weight="0.32954547" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -575,7 +626,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/test/TomJerryTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
+        <state relative-caret-position="300">
           <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
           <folding>
             <element signature="imports" expanded="true" />
